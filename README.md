@@ -1,6 +1,13 @@
 # Scan4all_Pro
 Scan4all Pro，Distributed, more optimized and faster
 
+## v2.8.5
+```
+1、nuclei升级至最新版本
+2、升级naabu至最新版本
+3、添加若干go-POC检测
+4、优化若干
+```
 
 ##  v2.8.4
 ```
